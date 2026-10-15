@@ -15,6 +15,7 @@
 - ☕ Building things in **Java**
 - 🐧 Running **Linux** everywhere: servers, containers and my daily driver
 - 🏠 Homelab on **Proxmox**
+- 👨‍💻 Currently building things nobody asked for
 
 ### 🛠️ Tech stack
 <p>
