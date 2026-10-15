@@ -20,7 +20,7 @@
 
 ### 🛠️ Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git,c++,rust,html,javascript,css" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git,cpp,rust,html,javascript,css" />
 </p>
 
 ### 📊 GitHub stats
