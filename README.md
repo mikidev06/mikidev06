@@ -13,13 +13,14 @@
 ### 🧑‍💻 About me
 - 🐍 Writing **Python** for scripting, automation and tooling
 - ☕ Building things in **Java**
+- 💻 Creating apps in **C/C++**
 - 🐧 Running **Linux** everywhere: servers, containers and my daily driver
 - 🏠 Homelab on **Proxmox**
 - 👨‍💻 Currently building things nobody asked for
 
 ### 🛠️ Tech stack
 <p>
-  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git" />
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git,c++,rust,html,javascript,css" />
 </p>
 
 ### 📊 GitHub stats
