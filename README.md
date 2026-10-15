@@ -1,20 +1,38 @@
-<h1 align="center">Hi, I'm Your Name 👋</h1>
-<p align="center">Backend dev · Homelab tinkerer · Budapest</p>
-
+<h1 align="center">Hi, I'm YOUR_NAME 👋</h1>
 <p align="center">
-  <a href="https://yourname.dev"><img src="https://img.shields.io/badge/Website-000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
-  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+%26+Java+developer;Linux+enthusiast;Self-hosting+%26+homelab+tinkerer" alt="Typing SVG" />
 </p>
 
-### 🔧 Tech I use
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+<p align="center">
+  <a href="https://YOUR_WEBSITE"><img src="https://img.shields.io/badge/Website-0D1117?style=for-the-badge&logo=githubpages&logoColor=white"/></a>
+  <a href="mailto:YOUR_EMAIL"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+</p>
+
+---
+
+### 🧑‍💻 About me
+- 🐍 Writing **Python** for scripting, automation and tooling
+- ☕ Building things in **Java**
+- 🐧 Running **Linux** everywhere: servers, containers and my daily driver
+- 🏠 Homelab on **Proxmox** with LXC containers, reachable over **Tailscale**
+- ⛏️ Self-hosting a **Minecraft server**
+
+### 🛠️ Tech stack
+<p>
+  <img src="https://skillicons.dev/icons?i=python,java,linux,bash,docker,git" />
+</p>
 
 ### 🚀 Featured projects
-- **[project-one](https://github.com/yourname/project-one)**: short description of what it does
-- **[project-two](https://github.com/yourname/project-two)**: short description of what it does
+| Project | Description |
+|---|---|
+| [project-one](https://github.com/YOUR_USERNAME/project-one) | Short description of what it does |
+| [project-two](https://github.com/YOUR_USERNAME/project-two) | Short description of what it does |
 
-### 📊 Stats
-<img src="https://github-readme-stats.vercel.app/api?username=yourname&show_icons=true&theme=tokyonight" height="150"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=tokyonight" height="150"/>
+### 📊 GitHub stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true" height="165" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark-blue&hide_border=true" height="165" />
+</p>
